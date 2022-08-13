@@ -53,6 +53,9 @@ html {
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    /* position:sticky;
+    top:0;
+    left:0 */
 }
 
 #heading span {
@@ -147,6 +150,6 @@ html {
     font-size: larger;
 }
 
-#slogal span {
-    color: #ddd;
+#slogan span {
+    color: #ddd ;
 }
